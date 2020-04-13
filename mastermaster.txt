@@ -1,2 +1,2 @@
 在dev上修改这个mastermaster
-在bug上修改mastermaster
+在bug上修改mastermaster在dev追加
